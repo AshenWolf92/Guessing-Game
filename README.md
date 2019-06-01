@@ -1,3 +1,7 @@
-#Guessing Game
-Sat  1 Jun 2019 13:19:30 AEST
+Title: Guessing Game
+
+The time and date README.me was created was: 
+Sat  1 Jun 2019 13:42:09 AEST
+
+The number of lines of code in guessinggame.sh is: 
       28
